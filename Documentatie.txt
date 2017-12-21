@@ -1,0 +1,10 @@
+# Proiect-PLP
+Prin proiect mi-am propus să realizez semantica unui limbaj de programare personalizat, conținând următoarele:
+
+-Instrucțiuni de condiție (if, while)
+-Operații aritmetice între numere
+-Incrementare
+-Declararea unor variabile(locale), vectori, matrici(multidimensional arrays)
+-Citirea de la tastatură și afișarea
+-POO(clase si metode, mostenire)
+-Functii
